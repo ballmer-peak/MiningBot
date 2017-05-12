@@ -6,6 +6,6 @@ Make sure you have an updated Java Development Kit (JDK) for your system. Downlo
 
 ### Running the Keylogger
 #### Windows
-Just make sure you have `KBMTracker.bat` and `KBMTracker.jar` are in the same file run the batch script `KBMTracker.bat`. It will open the `.jar` file in a cmd window for you. 
+Just make sure you have `KBMTracker.bat` and `KBMTracker.jar` in the same file run the batch script `KBMTracker.bat`. It will open the `.jar` file in a cmd window for you. 
 #### OSX/Linux/UNIX/SOLARIS/Samsung Smart Refrigerator
 Run `KBMTracker.jar` from the command line using the command `java -jar KBMTracker.jar <mousefile> <keyboardfile>`.
